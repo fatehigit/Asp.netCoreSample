@@ -1,0 +1,13 @@
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.deps.json
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.runtimeconfig.json
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.dll
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.pdb
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.AssemblyInfo.cs
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.dll
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.pdb
+C:\Users\iroonidotnet\Desktop\ASPNETCORE\DigiKala.DataAccessLayer\obj\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.genruntimeconfig.cache
