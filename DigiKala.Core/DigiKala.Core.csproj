@@ -19,8 +19,4 @@
     <ProjectReference Include="..\DigiKala.DataAccessLayer\DigiKala.DataAccessLayer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
-
 </Project>

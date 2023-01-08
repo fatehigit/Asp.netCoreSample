@@ -50,6 +50,9 @@ namespace DigiKala
             //join each Interfaces to services
             services.AddTransient<IUser, UserService>();
             services.AddTransient<IAccount, AccountService>();
+            
+            //************************ for rout
+            services.AddMvc(option=>option.EnableEndpointRouting=false);
 
 
             services.AddRazorPages();
@@ -72,6 +75,9 @@ namespace DigiKala
             //Add by Me for Authentication
             app.UseAuthentication();
 
+            //************************ for rout
+            app.UseMvcWithDefaultRoute();
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -86,4 +92,3 @@ namespace DigiKala
         }
     }
 }
-//moriiiiii

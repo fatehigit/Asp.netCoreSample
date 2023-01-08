@@ -9444,11 +9444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala\\DigiKala.csproj",
+      "projectUniqueName": "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala\\DigiKala.csproj",
       "projectName": "DigiKala",
-      "projectPath": "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala\\DigiKala.csproj",
+      "projectPath": "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala\\DigiKala.csproj",
       "packagesPath": "C:\\Users\\iroonidotnet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala\\obj\\",
+      "outputPath": "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9468,11 +9468,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala.Core\\DigiKala.Core.csproj": {
-              "projectPath": "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala.Core\\DigiKala.Core.csproj"
+            "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala.Core\\DigiKala.Core.csproj": {
+              "projectPath": "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala.Core\\DigiKala.Core.csproj"
             },
-            "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala.DataAccessLayer\\DigiKala.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala.DataAccessLayer\\DigiKala.DataAccessLayer.csproj"
+            "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala.DataAccessLayer\\DigiKala.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala.DataAccessLayer\\DigiKala.DataAccessLayer.csproj"
             }
           }
         }

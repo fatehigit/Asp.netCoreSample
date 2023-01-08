@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7GKlCuh7UFsGwl4xyLrNJOAZqAyKh9j4bLD70GkxM0GL0oLoZO8ansgdZmobfcsKh7137rHpzoBEB/bhdsNB8g==",
+  "dgSpecHash": "hNW8bsnbUkAGBBGrQhj6hhZSCvk0pxx8KsKapz0M5D/pGzBEfUm7rYw21W5loyktXd9WuMYwKbEJ9/3XG6U5ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iroonidotnet\\Desktop\\ASPNETCORE\\DigiKala.Core\\DigiKala.Core.csproj",
+  "projectFilePath": "C:\\Users\\iroonidotnet\\Desktop\\MasterPortal\\DigiKala.Core\\DigiKala.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iroonidotnet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iroonidotnet\\.nuget\\packages\\kavenegardotnetcore\\1.0.5\\kavenegardotnetcore.1.0.5.nupkg.sha512",
